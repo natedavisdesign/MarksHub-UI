@@ -1,0 +1,222 @@
+/*!
+ * Start Bootstrap - Full Slider (https://startbootstrap.com/template-overviews/full-slider)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-slider/blob/master/LICENSE)
+ */
+
+
+ /*class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"*/
+
+  /* ===Open Sans Font=== */
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700,700i');
+
+ /* ===Nav Bar=== */
+.navbar-home {
+  background-color: #C02032;
+}
+.navbar-brand{
+  color: #FFFFFF;
+  font-size: 14px;
+  font-family: OpenSans-Bold;
+  font-weight: bold;
+  text-align: left;
+  letter-spacing: 0;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: #FFFFFF;
+  font-size: 10px;
+  font-family: OpenSans-SemiBold;
+  font-weight: 600;
+  text-align: left;
+  letter-spacing: 0;
+}
+/* Search Bar */
+.form-control{
+  width: 206px;
+  height: 28px;
+  background: #FFFFFF;
+  border-radius: 4px 4px 4px 4px;
+}
+.form-inline ::placeholder {
+  color: #626262;
+  font-size: 10px;
+  font-family: OpenSans-Light;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0;
+}
+.btn-register{
+  border: 1px solid #FFFFFF;
+  border-radius: 4px 4px 4px 4px;
+  background-color: #C02032;
+  color: #FFFFFF;
+  font-size: 10px;
+  font-family: OpenSans-SemiBold;
+  font-weight: 600;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  line-height: 10px;
+}
+
+h1 {
+color: #0B0B0B;
+font-size: 24px;
+font-family: OpenSans-Light;
+font-weight: 300;
+text-align: left;
+letter-spacing: 0;
+}
+.text-underline{
+border: 0.5px solid #E6E6E6;
+}
+
+
+
+
+
+
+
+
+
+
+
+.carousel-item {
+  height: 80vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+.carousel-caption {
+  margin-bottom: 120px;
+}
+.carousel-inner {
+
+  color: #FFFFFF;
+  font-size: 42px;
+  font-family: OpenSans-Light;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0;
+}
+
+.carousel-caption p {
+  
+  color: #FFFFFF;
+  font-size: 42px;
+  font-family: OpenSans-Light;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0;
+}
+
+
+
+.carousel-item .carousel-caption .d-none .d-md-block h3 {
+  width: 404px;
+  height: 114px;
+  color: #FFFFFF;
+  font-size: 42px;
+  font-family: OpenSans-Light;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0;
+}
+.headerText {
+  color: #FFFFFF;
+  font-size: 42px;
+  font-family: OpenSans-Light;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0
+ 
+}
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: 20px;
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+/* ===SLIDER BUTTON=== */
+.btn-primary{
+  width: 158px;
+  height: 38px;
+  background: #C02032;
+  border-radius: 4px 4px 4px 4px;
+  border-color: #C02032;
+}
+.btn :hover{
+  width: 158px;
+  height: 38px;
+  background: #C02032;
+  border-radius: 4px 4px 4px 4px;
+  border-color: #C02032;
+}
+.btn :active{
+  width: 158px;
+  height: 38px;
+  background: #C02032;
+  border-radius: 4px 4px 4px 4px;
+  border-color: #C02032;
+}
+
+
+
+ /* ===Cards=== */
+.card {
+  background: #FFFFFF;
+  border: 1px solid #E9E9E9;
+  border-radius: 1px 1px 1px 1px;
+  margin-top: 20px;
+}
+
+.card-title{
+  color: #1D1D1D;
+  font-size: 18px;
+  font-family: OpenSans-SemiBold;
+  font-weight: 600;
+  text-align: left;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+ }
+
+.card-text-small{
+  color: #000000;
+  font-size: 10px;
+  font-family: OpenSans-Light;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0;
+ }
+
+ .card-text{
+  color: #000000;
+  font-size: 12px;
+  font-family: OpenSans-Regular;
+  font-weight: normal;
+  text-align: left;
+  letter-spacing: 0;
+ }
+
+ .container .h1 {
+  width: 924px;
+  height: 33px;
+  color: #0B0B0B;
+  font-size: 24px;
+  font-family: OpenSans-Light;
+  font-weight: 300;
+  text-align: left;
+  letter-spacing: 0;
+ }
+
