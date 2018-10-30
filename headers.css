@@ -1,0 +1,51 @@
+/* ===Open Sans Font=== */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,600i,700,700i');
+
+/* ===Nav One: Logged Out Nav Bar=== */
+.navbar-home {
+ background-color: #C02032;
+}
+.navbar-brand{
+ color: #FFFFFF;
+ font-size: 14px;
+ font-family: OpenSans-Bold;
+ font-weight: bold;
+ text-align: left;
+ letter-spacing: 0;
+}
+.navbar-dark .navbar-nav .nav-link {
+ color: #FFFFFF;
+ font-size: 10px;
+ font-family: OpenSans-SemiBold;
+ font-weight: 600;
+ text-align: left;
+ letter-spacing: 0;
+}
+/* Search Bar */
+.form-control{
+ width: 206px;
+ height: 28px;
+ background: #FFFFFF;
+ border-radius: 4px 4px 4px 4px;
+}
+.form-inline ::placeholder {
+ color: #626262;
+ font-size: 10px;
+ font-family: OpenSans-Light;
+ font-weight: 300;
+ text-align: left;
+ letter-spacing: 0;
+}
+.btn-register{
+ border: 1px solid #FFFFFF;
+ border-radius: 4px 4px 4px 4px;
+ background-color: #C02032;
+ color: #FFFFFF;
+ font-size: 10px;
+ font-family: OpenSans-SemiBold;
+ font-weight: 600;
+ text-align: center;
+ text-transform: uppercase;
+ letter-spacing: 0;
+ line-height: 10px;
+}
